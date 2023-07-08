@@ -1,0 +1,5 @@
+server:
+  port: 4000
+vapid:
+  publicKey: "BENd5n162gwq2zMPiampC3AH3cMY1iUe62QLCh7HcQQE1jASqL2y6toLXL_MPFe8i2T7CElkbu7CTEx6EpoEbrw"
+  privateKey: "enldX9ladAC215cP3FA4W70_c6hwqvCMsy1Yavbskao"
